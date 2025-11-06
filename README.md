@@ -3,9 +3,7 @@
 This repository contains the data, analysis, and visual materials from the CORS experiment — a study exploring how minimal interface design influences cognitive load, emotional well-being, and navigation performance.
 
 📁 cors-experiment-results/
-│
-├── data/                 # Raw and processed experimental data
-└── README.md             # You are here
+
 
 📜 License
 
