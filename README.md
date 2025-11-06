@@ -7,11 +7,6 @@ This repository contains the data, analysis, and visual materials from the CORS 
 ├── data/                 # Raw and processed experimental data
 └── README.md             # You are here
 
-📜 License
-
-This repository is distributed under the MIT License
-You are free to use, modify, and distribute the materials with appropriate attribution.
-
 📬 Contact
 For questions or collaboration inquiries, please contact:
 📧 cricardo.cruz@iimas.unam.mx
